@@ -1,4 +1,4 @@
-# Health App API
+# Health App
 
 Author: Nikodem Denega
 
