@@ -2,7 +2,7 @@
 
 Author: Nikodem Denega
 
-A simple health and BMI tracker API built with FastAPI, managed by Poetry, and containerized using Docker.
+A health and BMI tracker API built with FastAPI, managed by Poetry, and containerized using Docker.
 
 ## Project Structure
 * `src/health_app/health.py` - Core business logic for BMI and weight calculations.
