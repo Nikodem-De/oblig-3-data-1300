@@ -1,6 +1,10 @@
+import sys
 import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
+
 import json
-from src.health_app.data import save_records, load_records
+from health_app.data import save_records, load_records  
+
 
 def test_save_and_load_data(tmp_path):
   

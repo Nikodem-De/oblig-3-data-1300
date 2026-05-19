@@ -1,5 +1,9 @@
+import sys
+import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
+
 import pytest
-from src.health_app.health import Health
+from health_app.health import Health  
 
 def test_bmi_calculation():
    

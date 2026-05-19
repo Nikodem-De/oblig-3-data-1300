@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Nikodem",
+        "weight_kg": 100.0,
+        "height_m": 185.0,
+        "bmi": 0.0,
+        "category": "Underweight",
+        "ideal_weight": 752950.0
+    },
+    {
+        "name": "Nikodem",
+        "weight_kg": 100.0,
+        "height_m": 1.85,
+        "bmi": 29.22,
+        "category": "Overweight",
+        "ideal_weight": 75.3
+    },
+    {
+        "name": "Nikodem",
+        "weight_kg": 100.0,
+        "height_m": 1.85,
+        "bmi": 29.22,
+        "category": "Overweight",
+        "ideal_weight": 75.3
+    }
+]
