@@ -30,6 +30,7 @@ docker compose up
 ```
 
 **API Endpoints**
+
 GET / - Health check endpoint verifying the API status.
 
 GET /records - Retrieves a list of all saved health records from the persistent store.
